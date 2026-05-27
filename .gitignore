@@ -1,0 +1,18 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter 检查点
+.ipynb_checkpoints/
+
+# VS Code 设置（如果不希望共享个人编辑器配置）
+.vscode/
+
+# 环境文件（如果不想提交整个 conda 环境文件夹）
+# 但 environment.yml 建议保留，方便他人复现
+# .conda/
+
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
